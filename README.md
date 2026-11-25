@@ -183,9 +183,7 @@ Possible improvements for future versions include:
 - **Subject:** Data Structures and Algorithms (DSA)
 - **Programming Language:** Java
 - **Institution:** Rungta International Skills University
-- **Submitted By:** Ayushi Kumari
+- **Submitted By:** Ayushi Kumari (ERP: RU-25-10362)
 - **Academic Session:** 2026–27
 
 ---
-
-⭐ **If you find this project useful, feel free to explore the code and learn how different data structures work together in a real-world application.**
